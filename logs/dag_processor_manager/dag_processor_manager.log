@@ -1,0 +1,2102 @@
+[2022-11-07T15:34:12.397+0600] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2022-11-07T15:34:12.398+0600] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2022-11-07T15:34:12.398+0600] {manager.py:485} INFO - Checking for new files in /home/ima/Documents/airflow_tutorial/dags every 300 seconds
+[2022-11-07T15:34:12.399+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:34:12.402+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:34:13.166+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.61s           2022-11-07T09:34:13
+================================================================================
+[2022-11-07T15:34:43.537+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:34:43
+================================================================================
+[2022-11-07T15:35:13.666+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:35:13
+================================================================================
+[2022-11-07T15:35:43.992+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:35:43
+================================================================================
+[2022-11-07T15:36:14.416+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:36:14
+================================================================================
+[2022-11-07T15:36:44.996+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:36:44
+================================================================================
+[2022-11-07T15:37:15.828+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.11s           2022-11-07T09:37:15
+================================================================================
+[2022-11-07T15:37:46.208+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.32s           2022-11-07T09:37:46
+================================================================================
+[2022-11-07T15:38:16.956+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:38:16
+================================================================================
+[2022-11-07T15:38:47.736+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:38:47
+================================================================================
+[2022-11-07T15:39:12.487+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:39:12.489+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:39:18.248+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:39:18
+================================================================================
+[2022-11-07T15:39:48.664+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:39:48
+================================================================================
+[2022-11-07T15:40:18.861+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.34s           2022-11-07T09:40:18
+================================================================================
+[2022-11-07T15:40:49.209+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:40:49
+================================================================================
+[2022-11-07T15:41:20.254+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.25s           2022-11-07T09:41:20
+================================================================================
+[2022-11-07T15:41:50.388+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.33s           2022-11-07T09:41:50
+================================================================================
+[2022-11-07T15:42:21.065+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.25s           2022-11-07T09:42:21
+================================================================================
+[2022-11-07T15:42:52.116+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.26s           2022-11-07T09:42:52
+================================================================================
+[2022-11-07T15:43:22.151+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.29s           2022-11-07T09:43:22
+================================================================================
+[2022-11-07T15:43:52.819+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:43:52
+================================================================================
+[2022-11-07T15:44:12.692+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:44:12.696+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:44:24.024+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:44:24
+================================================================================
+[2022-11-07T15:44:55.341+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.41s           2022-11-07T09:44:55
+================================================================================
+[2022-11-07T15:45:18.696+0600] {manager.py:520} INFO - DAG our_first_dag is missing and will be deactivated.
+[2022-11-07T15:45:18.701+0600] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-07T15:45:18.720+0600] {manager.py:534} INFO - Deleted DAG our_first_dag in serialized_dag table
+[2022-11-07T15:45:25.949+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:45:25
+================================================================================
+[2022-11-07T15:45:57.056+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.55s           2022-11-07T09:45:57
+================================================================================
+[2022-11-07T15:46:27.481+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:46:27
+================================================================================
+[2022-11-07T15:46:58.095+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:46:58
+================================================================================
+[2022-11-07T15:47:28.949+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:47:28
+================================================================================
+[2022-11-07T15:47:59.585+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:47:59
+================================================================================
+[2022-11-07T15:48:30.569+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.41s           2022-11-07T09:48:30
+================================================================================
+[2022-11-07T15:49:01.406+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:49:01
+================================================================================
+[2022-11-07T15:49:13.025+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:49:13.031+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:49:31.661+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.36s           2022-11-07T09:49:31
+================================================================================
+[2022-11-07T15:50:02.301+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.22s           2022-11-07T09:50:02
+================================================================================
+[2022-11-07T15:50:33.332+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.52s           2022-11-07T09:50:33
+================================================================================
+[2022-11-07T15:51:04.057+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:51:04
+================================================================================
+[2022-11-07T15:51:25.123+0600] {manager.py:520} INFO - DAG our_first_dag_v2 is missing and will be deactivated.
+[2022-11-07T15:51:25.131+0600] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-07T15:51:25.159+0600] {manager.py:534} INFO - Deleted DAG our_first_dag_v2 in serialized_dag table
+[2022-11-07T15:51:34.588+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:51:34
+================================================================================
+[2022-11-07T15:52:05.514+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:52:05
+================================================================================
+[2022-11-07T15:52:36.104+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:52:36
+================================================================================
+[2022-11-07T15:53:06.759+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.20s           2022-11-07T09:53:06
+================================================================================
+[2022-11-07T15:53:37.405+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.22s           2022-11-07T09:53:37
+================================================================================
+[2022-11-07T15:54:08.623+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.33s           2022-11-07T09:54:08
+================================================================================
+[2022-11-07T15:54:13.356+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:54:13.359+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:54:26.815+0600] {manager.py:520} INFO - DAG our_first_dag_v3 is missing and will be deactivated.
+[2022-11-07T15:54:26.821+0600] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-07T15:54:26.853+0600] {manager.py:534} INFO - Deleted DAG our_first_dag_v3 in serialized_dag table
+[2022-11-07T15:54:39.165+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:54:39
+================================================================================
+[2022-11-07T15:55:09.495+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.24s           2022-11-07T09:55:09
+================================================================================
+[2022-11-07T15:55:39.893+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.22s           2022-11-07T09:55:39
+================================================================================
+[2022-11-07T15:56:10.311+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.32s           2022-11-07T09:56:10
+================================================================================
+[2022-11-07T15:56:41.029+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:56:41
+================================================================================
+[2022-11-07T15:57:11.866+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.31s           2022-11-07T09:57:11
+================================================================================
+[2022-11-07T15:57:29.052+0600] {manager.py:520} INFO - DAG our_first_dag_v4 is missing and will be deactivated.
+[2022-11-07T15:57:29.069+0600] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-07T15:57:29.106+0600] {manager.py:534} INFO - Deleted DAG our_first_dag_v4 in serialized_dag table
+[2022-11-07T15:57:42.831+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.20s           2022-11-07T09:57:42
+================================================================================
+[2022-11-07T15:58:14.019+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.21s           2022-11-07T09:58:14
+================================================================================
+[2022-11-07T15:58:44.821+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/our_first_dag.py                           1           0  0.20s           2022-11-07T09:58:44
+================================================================================
+[2022-11-07T15:59:05.882+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:06.952+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:08.087+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:09.165+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:10.217+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:10.596+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:11.705+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:12.073+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:13.214+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/our_first_dag.py
+[2022-11-07T15:59:13.795+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:59:13.798+0600] {manager.py:727} INFO - There are 1 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T15:59:15.607+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.22s           2022-11-07T09:59:15
+================================================================================
+[2022-11-07T15:59:46.480+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.21s           2022-11-07T09:59:46
+================================================================================
+[2022-11-07T16:00:17.507+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.24s           2022-11-07T10:00:17
+================================================================================
+[2022-11-07T16:00:47.728+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.21s           2022-11-07T10:00:47
+================================================================================
+[2022-11-07T16:01:00.238+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:01.299+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:02.386+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:03.447+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:04.202+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:04.824+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:05.933+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:07.002+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:08.105+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:09.201+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:09.370+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:10.479+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:11.555+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:12.679+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:13.834+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:14.363+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:15.575+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:16.654+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:17.758+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:17.762+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:01:18.872+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:19.562+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:19.971+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:21.051+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:22.153+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:23.202+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:24.246+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:24.555+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:24.639+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:25.706+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:26.002+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:27.092+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:28.148+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:29.216+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:29.709+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:30.852+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:32.035+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:33.108+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:34.189+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:34.604+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:34.854+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:36.320+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:37.411+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:38.524+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:39.628+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:40.322+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:41.464+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:42.523+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:43.574+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:44.627+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:44.702+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:45.462+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:46.533+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:47.579+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:48.623+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:48.625+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:01:49.668+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:50.313+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:50.532+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:51.605+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:52.656+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:53.697+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:54.744+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:55.605+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:56.695+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:57.789+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:58.828+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:01:59.872+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:00.692+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:01.786+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:02.830+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:03.890+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:04.808+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:05.384+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:05.785+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:06.896+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:07.955+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:08.991+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:10.049+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:10.895+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:12.026+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:13.074+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:14.115+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:14.882+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:15.926+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:16.023+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:17.098+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:18.148+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:19.224+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:19.225+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:02:20.268+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:20.453+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:21.099+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:22.168+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:23.207+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:24.256+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:24.926+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:25.977+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:26.091+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:26.166+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:27.240+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:28.282+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:29.342+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:30.389+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:31.241+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:32.342+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:33.394+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:34.437+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:34.976+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:35.525+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:36.338+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:37.423+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:38.487+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:39.558+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:40.637+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:41.436+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:42.874+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:44.022+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:45.051+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:46.173+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:46.859+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:48.091+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:49.183+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:50.268+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:50.269+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:02:50.585+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:51.670+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:52.081+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:53.169+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:54.221+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:55.191+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:56.435+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:57.174+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:58.277+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:02:59.347+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:00.398+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:01.465+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:02.283+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:03.379+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:04.463+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:05.436+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:05.673+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:06.753+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:07.379+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:08.509+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:09.581+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:10.658+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:11.731+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:12.509+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:13.644+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:14.716+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:15.528+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:16.625+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:17.646+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:18.808+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:19.928+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:20.753+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:20.756+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:03:21.860+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:22.819+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:23.970+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:25.035+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:25.625+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:26.152+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:27.248+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:27.967+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:29.100+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:30.195+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:31.300+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:32.393+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:33.088+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:34.210+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:35.316+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:35.730+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:35.861+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:36.919+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:37.975+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:38.206+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:39.281+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:40.324+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:41.374+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:42.432+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:43.283+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:44.362+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:45.420+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:45.795+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:46.842+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:47.914+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:48.366+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:49.433+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:50.483+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:50.919+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:50.920+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_commands.py                           1           0  0.23s           2022-11-07T10:00:59
+================================================================================
+[2022-11-07T16:03:51.982+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:53.031+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:53.430+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:54.516+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:55.562+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:55.843+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:56.890+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:57.958+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:58.522+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:03:59.643+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:00.723+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:01.819+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:02.931+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:03.649+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:04.771+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:05.850+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:05.987+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:07.093+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:08.163+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:08.769+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:09.915+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:10.999+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:12.140+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:13.215+0600] {manager.py:1066} WARNING - Skipping processing of missing file: /home/ima/Documents/airflow_tutorial/dags/dash_commands.py
+[2022-11-07T16:04:13.924+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:04:13.927+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:04:21.305+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.22s           2022-11-07T10:04:21
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:04:20
+================================================================================
+[2022-11-07T16:04:52.241+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T10:04:52
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.22s           2022-11-07T10:04:51
+================================================================================
+[2022-11-07T16:05:23.211+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.53s           2022-11-07T10:05:23
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:05:21
+================================================================================
+[2022-11-07T16:05:54.074+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.35s           2022-11-07T10:05:52
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.30s           2022-11-07T10:05:54
+================================================================================
+[2022-11-07T16:06:24.642+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.39s           2022-11-07T10:06:23
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:06:24
+================================================================================
+[2022-11-07T16:06:54.757+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:06:54
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.45s           2022-11-07T10:06:53
+================================================================================
+[2022-11-07T16:07:25.314+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:07:25
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:07:23
+================================================================================
+[2022-11-07T16:07:56.393+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T10:07:56
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:07:55
+================================================================================
+[2022-11-07T16:08:26.452+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T10:08:24
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:08:26
+================================================================================
+[2022-11-07T16:08:57.675+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T10:08:57
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.36s           2022-11-07T10:08:55
+================================================================================
+[2022-11-07T16:09:14.033+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:09:14.038+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:09:28.102+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T10:09:28
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:09:27
+================================================================================
+[2022-11-07T16:09:58.188+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:09:58
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:09:57
+================================================================================
+[2022-11-07T16:10:28.626+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:10:28
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:10:27
+================================================================================
+[2022-11-07T16:10:59.694+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:10:58
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:10:59
+================================================================================
+[2022-11-07T16:11:30.018+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.47s           2022-11-07T10:11:29
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:11:30
+================================================================================
+[2022-11-07T16:12:00.989+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T10:11:59
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T10:12:00
+================================================================================
+[2022-11-07T16:12:31.144+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:12:29
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:12:31
+================================================================================
+[2022-11-07T16:13:02.045+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T10:13:00
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:13:02
+================================================================================
+[2022-11-07T16:13:32.174+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.44s           2022-11-07T10:13:31
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.45s           2022-11-07T10:13:32
+================================================================================
+[2022-11-07T16:14:02.904+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:14:02
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:14:01
+================================================================================
+[2022-11-07T16:14:14.089+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:14:14.097+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:14:33.688+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:14:32
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:14:33
+================================================================================
+[2022-11-07T16:15:04.397+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:15:03
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.30s           2022-11-07T10:15:04
+================================================================================
+[2022-11-07T16:15:34.918+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.30s           2022-11-07T10:15:33
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:15:34
+================================================================================
+[2022-11-07T16:16:05.816+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:16:04
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:16:05
+================================================================================
+[2022-11-07T16:16:36.121+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.33s           2022-11-07T10:16:36
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.43s           2022-11-07T10:16:35
+================================================================================
+[2022-11-07T16:17:06.722+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:17:06
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.39s           2022-11-07T10:17:05
+================================================================================
+[2022-11-07T16:17:37.130+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T10:17:36
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T10:17:37
+================================================================================
+[2022-11-07T16:18:07.302+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:18:05
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.40s           2022-11-07T10:18:07
+================================================================================
+[2022-11-07T16:18:38.091+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:18:36
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:18:38
+================================================================================
+[2022-11-07T16:19:08.766+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:19:07
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T10:19:08
+================================================================================
+[2022-11-07T16:19:14.599+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:19:14.604+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:19:40.261+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:19:40
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:19:38
+================================================================================
+[2022-11-07T16:20:11.521+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.44s           2022-11-07T10:20:11
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.43s           2022-11-07T10:20:09
+================================================================================
+[2022-11-07T16:20:42.733+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.51s           2022-11-07T10:20:41
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T10:20:42
+================================================================================
+[2022-11-07T16:21:13.559+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:21:12
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T10:21:13
+================================================================================
+[2022-11-07T16:21:44.095+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.36s           2022-11-07T10:21:42
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:21:44
+================================================================================
+[2022-11-07T16:22:14.369+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:22:13
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:22:14
+================================================================================
+[2022-11-07T16:22:45.003+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.33s           2022-11-07T10:22:43
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T10:22:45
+================================================================================
+[2022-11-07T16:23:15.113+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.49s           2022-11-07T10:23:14
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:23:15
+================================================================================
+[2022-11-07T16:23:45.955+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:23:45
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:23:44
+================================================================================
+[2022-11-07T16:24:15.559+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:24:15.570+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T16:24:16.024+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:24:16
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T10:24:14
+================================================================================
+[2022-11-07T16:24:46.459+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:24:45
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T10:24:46
+================================================================================
+[2022-11-07T16:25:16.886+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:25:15
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:25:16
+================================================================================
+[2022-11-07T16:25:47.502+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T10:25:46
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T10:25:47
+================================================================================
+[2022-11-07T16:26:17.908+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T10:26:17
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T10:26:17
+================================================================================
+[2022-11-07T16:26:48.937+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T10:26:47
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T10:26:48
+================================================================================
+[2022-11-07T16:27:19.106+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T10:27:17
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T10:27:19
+================================================================================
+[2022-11-07T16:27:50.434+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T10:27:50
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T10:27:48
+================================================================================
+[2022-11-07T16:28:20.752+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.33s           2022-11-07T10:28:19
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T10:28:20
+================================================================================
+[2022-11-07T16:28:51.847+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T10:28:51
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.55s           2022-11-07T10:28:50
+================================================================================
+[2022-11-07T18:11:11.783+0600] {manager.py:520} INFO - DAG bash_operator is missing and will be deactivated.
+[2022-11-07T18:11:11.791+0600] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-07T18:11:11.846+0600] {manager.py:534} INFO - Deleted DAG bash_operator in serialized_dag table
+[2022-11-07T18:11:11.854+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:11:11.859+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:11:23.189+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  1.98s           2022-11-07T12:11:16
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.57s           2022-11-07T12:11:23
+================================================================================
+[2022-11-07T18:11:53.381+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.64s           2022-11-07T12:11:53
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.88s           2022-11-07T12:11:51
+================================================================================
+[2022-11-07T18:12:24.563+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.69s           2022-11-07T12:12:24
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.44s           2022-11-07T12:12:23
+================================================================================
+[2022-11-07T18:12:55.823+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:12:54
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:12:55
+================================================================================
+[2022-11-07T18:13:26.059+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.27s           2022-11-07T12:13:26
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:13:24
+================================================================================
+[2022-11-07T18:13:56.100+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:13:54
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:13:56
+================================================================================
+[2022-11-07T18:14:26.438+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:14:26
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T12:14:24
+================================================================================
+[2022-11-07T18:14:57.436+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T12:14:57
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:14:55
+================================================================================
+[2022-11-07T18:15:28.866+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T12:15:28
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.70s           2022-11-07T12:15:27
+================================================================================
+[2022-11-07T18:15:59.136+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:15:59
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:15:57
+================================================================================
+[2022-11-07T18:16:12.737+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:16:12.744+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:16:30.277+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:16:30
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:16:28
+================================================================================
+[2022-11-07T18:17:01.556+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:17:01
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:17:00
+================================================================================
+[2022-11-07T18:17:32.299+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:17:32
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:17:30
+================================================================================
+[2022-11-07T18:18:03.014+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.52s           2022-11-07T12:18:03
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T12:18:01
+================================================================================
+[2022-11-07T18:18:33.783+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:18:32
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:18:33
+================================================================================
+[2022-11-07T18:19:05.171+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:19:03
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:19:05
+================================================================================
+[2022-11-07T18:19:35.412+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T12:19:33
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T12:19:35
+================================================================================
+[2022-11-07T18:20:05.494+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T12:20:05
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:20:03
+================================================================================
+[2022-11-07T18:20:35.512+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.63s           2022-11-07T12:20:35
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:20:33
+================================================================================
+[2022-11-07T18:21:06.610+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.22s           2022-11-07T12:21:06
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:21:05
+================================================================================
+[2022-11-07T18:21:13.235+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:21:13.239+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:21:36.848+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:21:35
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:21:36
+================================================================================
+[2022-11-07T18:22:07.342+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:22:07
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:22:05
+================================================================================
+[2022-11-07T18:22:37.742+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.24s           2022-11-07T12:22:37
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.24s           2022-11-07T12:22:36
+================================================================================
+[2022-11-07T18:23:09.112+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.22s           2022-11-07T12:23:07
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:23:09
+================================================================================
+[2022-11-07T18:23:40.210+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:23:40
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:23:38
+================================================================================
+[2022-11-07T18:24:11.620+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:24:10
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:24:11
+================================================================================
+[2022-11-07T18:24:42.939+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T12:24:41
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:24:42
+================================================================================
+[2022-11-07T18:25:13.930+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:25:12
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:25:13
+================================================================================
+[2022-11-07T18:25:44.646+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.25s           2022-11-07T12:25:43
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:25:44
+================================================================================
+[2022-11-07T18:26:14.117+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:26:14.120+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:26:15.871+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:26:14
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:26:15
+================================================================================
+[2022-11-07T18:26:45.899+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.41s           2022-11-07T12:26:44
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.25s           2022-11-07T12:26:45
+================================================================================
+[2022-11-07T18:27:16.507+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.26s           2022-11-07T12:27:15
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.27s           2022-11-07T12:27:16
+================================================================================
+[2022-11-07T18:27:47.599+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.24s           2022-11-07T12:27:46
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:27:47
+================================================================================
+[2022-11-07T18:28:18.333+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:28:18
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:28:16
+================================================================================
+[2022-11-07T18:28:48.999+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:28:47
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.23s           2022-11-07T12:28:48
+================================================================================
+[2022-11-07T18:29:20.140+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:29:18
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:29:20
+================================================================================
+[2022-11-07T18:29:51.058+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:29:51
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:29:49
+================================================================================
+[2022-11-07T18:30:21.725+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:30:21
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:30:20
+================================================================================
+[2022-11-07T18:30:52.569+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T12:30:52
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.42s           2022-11-07T12:30:50
+================================================================================
+[2022-11-07T18:31:14.995+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:31:14.999+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:31:23.476+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:31:23
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:31:21
+================================================================================
+[2022-11-07T18:31:54.614+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:31:53
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.22s           2022-11-07T12:31:54
+================================================================================
+[2022-11-07T18:32:25.431+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.22s           2022-11-07T12:32:24
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.26s           2022-11-07T12:32:25
+================================================================================
+[2022-11-07T18:32:56.071+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:32:54
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:32:56
+================================================================================
+[2022-11-07T18:33:26.722+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:33:26
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:33:25
+================================================================================
+[2022-11-07T18:33:57.780+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:33:57
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T12:33:56
+================================================================================
+[2022-11-07T18:34:28.916+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:34:28
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:34:27
+================================================================================
+[2022-11-07T18:34:59.074+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.24s           2022-11-07T12:34:57
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:34:59
+================================================================================
+[2022-11-07T18:35:30.399+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:35:30
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:35:28
+================================================================================
+[2022-11-07T18:36:01.623+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:36:01
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:36:00
+================================================================================
+[2022-11-07T18:36:15.038+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:36:15.063+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:36:32.792+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.54s           2022-11-07T12:36:32
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T12:36:31
+================================================================================
+[2022-11-07T18:37:03.055+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:37:01
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:37:03
+================================================================================
+[2022-11-07T18:37:34.299+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:37:32
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.26s           2022-11-07T12:37:34
+================================================================================
+[2022-11-07T18:38:05.187+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:38:04
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:38:05
+================================================================================
+[2022-11-07T18:38:36.158+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.25s           2022-11-07T12:38:36
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:38:34
+================================================================================
+[2022-11-07T18:39:07.226+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:39:05
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:39:07
+================================================================================
+[2022-11-07T18:39:38.228+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.25s           2022-11-07T12:39:38
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:39:36
+================================================================================
+[2022-11-07T18:40:09.399+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:40:09
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.25s           2022-11-07T12:40:08
+================================================================================
+[2022-11-07T18:40:40.640+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:40:39
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T12:40:40
+================================================================================
+[2022-11-07T18:41:11.524+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:41:10
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:41:11
+================================================================================
+[2022-11-07T18:41:15.302+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:41:15.306+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:41:42.418+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.28s           2022-11-07T12:41:41
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:41:42
+================================================================================
+[2022-11-07T18:42:12.985+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:42:11
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T12:42:12
+================================================================================
+[2022-11-07T18:42:43.508+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:42:43
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:42:42
+================================================================================
+[2022-11-07T18:43:14.092+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:43:12
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.26s           2022-11-07T12:43:14
+================================================================================
+[2022-11-07T18:43:44.759+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.23s           2022-11-07T12:43:43
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.36s           2022-11-07T12:43:44
+================================================================================
+[2022-11-07T18:44:15.693+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.55s           2022-11-07T12:44:14
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.34s           2022-11-07T12:44:15
+================================================================================
+[2022-11-07T18:44:45.993+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.33s           2022-11-07T12:44:45
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.44s           2022-11-07T12:44:44
+================================================================================
+[2022-11-07T18:45:17.153+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:45:15
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:45:17
+================================================================================
+[2022-11-07T18:45:48.149+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:45:46
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:45:48
+================================================================================
+[2022-11-07T18:46:15.914+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:46:15.918+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:46:18.323+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.26s           2022-11-07T12:46:17
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:46:18
+================================================================================
+[2022-11-07T18:46:48.429+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:46:48
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:46:47
+================================================================================
+[2022-11-07T18:47:19.690+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:47:19
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:47:18
+================================================================================
+[2022-11-07T18:47:50.602+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.29s           2022-11-07T12:47:50
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:47:49
+================================================================================
+[2022-11-07T18:48:20.951+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:48:19
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:48:20
+================================================================================
+[2022-11-07T18:48:51.712+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:48:50
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:48:51
+================================================================================
+[2022-11-07T18:49:22.569+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.74s           2022-11-07T12:49:21
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:49:22
+================================================================================
+[2022-11-07T18:49:53.515+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:49:53
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:49:52
+================================================================================
+[2022-11-07T18:50:24.100+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:50:24
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:50:22
+================================================================================
+[2022-11-07T18:50:55.413+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:50:55
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:50:53
+================================================================================
+[2022-11-07T18:51:16.725+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:51:16.729+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:51:26.130+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:51:26
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:51:25
+================================================================================
+[2022-11-07T18:51:56.584+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.32s           2022-11-07T12:51:56
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:51:55
+================================================================================
+[2022-11-07T18:52:27.571+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T12:52:26
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:52:27
+================================================================================
+[2022-11-07T18:52:57.624+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.22s           2022-11-07T12:52:57
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.27s           2022-11-07T12:52:56
+================================================================================
+[2022-11-07T18:53:28.504+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.25s           2022-11-07T12:53:27
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:53:28
+================================================================================
+[2022-11-07T18:53:59.214+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.73s           2022-11-07T12:53:58
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:53:59
+================================================================================
+[2022-11-07T18:54:30.167+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.33s           2022-11-07T12:54:30
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:54:28
+================================================================================
+[2022-11-07T18:55:00.860+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:54:59
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:55:00
+================================================================================
+[2022-11-07T18:55:30.988+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.21s           2022-11-07T12:55:30
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:55:29
+================================================================================
+[2022-11-07T18:56:01.400+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.29s           2022-11-07T12:55:59
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.28s           2022-11-07T12:56:01
+================================================================================
+[2022-11-07T18:56:17.510+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:56:17.513+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T18:56:31.672+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.23s           2022-11-07T12:56:31
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.32s           2022-11-07T12:56:30
+================================================================================
+[2022-11-07T18:57:02.862+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.25s           2022-11-07T12:57:01
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:57:02
+================================================================================
+[2022-11-07T18:57:34.103+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:57:34
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:57:32
+================================================================================
+[2022-11-07T18:58:05.492+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.42s           2022-11-07T12:58:03
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.41s           2022-11-07T12:58:05
+================================================================================
+[2022-11-07T18:58:35.617+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.43s           2022-11-07T12:58:35
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-07T12:58:34
+================================================================================
+[2022-11-07T18:59:06.043+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T12:59:06
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.43s           2022-11-07T12:59:04
+================================================================================
+[2022-11-07T18:59:36.472+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T12:59:36
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T12:59:35
+================================================================================
+[2022-11-07T19:00:06.479+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.34s           2022-11-07T13:00:06
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T13:00:05
+================================================================================
+[2022-11-07T19:00:36.716+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T13:00:35
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.31s           2022-11-07T13:00:36
+================================================================================
+[2022-11-07T19:01:07.130+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T13:01:07
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.67s           2022-11-07T13:01:05
+================================================================================
+[2022-11-07T19:01:17.525+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T19:01:17.529+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-07T19:01:38.029+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           1           0  0.31s           2022-11-07T13:01:38
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.52s           2022-11-07T13:01:37
+================================================================================
+[2022-11-07T19:02:07.524+0600] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2022-11-09T09:37:37.453+0600] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2022-11-09T09:37:37.455+0600] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2022-11-09T09:37:37.457+0600] {manager.py:485} INFO - Checking for new files in /home/ima/Documents/airflow_tutorial/dags every 300 seconds
+[2022-11-09T09:37:37.458+0600] {manager.py:724} INFO - Searching for files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-09T09:37:37.473+0600] {manager.py:727} INFO - There are 2 files in /home/ima/Documents/airflow_tutorial/dags
+[2022-11-09T09:37:37.893+0600] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ima/Documents/airflow_tutorial/dags/dash_opertator.py                           0           0
+/home/ima/Documents/airflow_tutorial/dags/python_script.py                            1           0  0.33s           2022-11-09T03:37:37
+================================================================================
+[2022-11-09T09:37:53.109+0600] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15

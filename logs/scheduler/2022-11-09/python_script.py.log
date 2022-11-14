@@ -1,0 +1,7 @@
+[2022-11-09T09:37:37.622+0600] {processor.py:154} INFO - Started process (PID=3574) to work on /home/ima/Documents/airflow_tutorial/dags/python_script.py
+[2022-11-09T09:37:37.627+0600] {processor.py:756} INFO - Processing file /home/ima/Documents/airflow_tutorial/dags/python_script.py for tasks to queue
+[2022-11-09T09:37:37.629+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:37.629+0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/ima/Documents/airflow_tutorial/dags/python_script.py
+[2022-11-09T09:37:37.682+0600] {processor.py:766} INFO - DAG(s) dict_keys(['python_script']) retrieved from /home/ima/Documents/airflow_tutorial/dags/python_script.py
+[2022-11-09T09:37:37.761+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:37.761+0600] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-09T09:37:37.817+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:37.817+0600] {dag.py:3336} INFO - Setting next_dagrun for python_script to 2022-11-08T00:00:00+00:00, run_after=2022-11-09T00:00:00+00:00
+[2022-11-09T09:37:37.867+0600] {processor.py:176} INFO - Processing /home/ima/Documents/airflow_tutorial/dags/python_script.py took 0.263 seconds

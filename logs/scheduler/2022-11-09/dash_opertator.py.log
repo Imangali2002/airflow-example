@@ -1,0 +1,7 @@
+[2022-11-09T09:37:39.003+0600] {processor.py:154} INFO - Started process (PID=3575) to work on /home/ima/Documents/airflow_tutorial/dags/dash_opertator.py
+[2022-11-09T09:37:39.006+0600] {processor.py:756} INFO - Processing file /home/ima/Documents/airflow_tutorial/dags/dash_opertator.py for tasks to queue
+[2022-11-09T09:37:39.008+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:39.007+0600] {dagbag.py:537} INFO - Filling up the DagBag from /home/ima/Documents/airflow_tutorial/dags/dash_opertator.py
+[2022-11-09T09:37:39.028+0600] {processor.py:766} INFO - DAG(s) dict_keys(['bash_operator']) retrieved from /home/ima/Documents/airflow_tutorial/dags/dash_opertator.py
+[2022-11-09T09:37:39.055+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:39.055+0600] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-09T09:37:39.103+0600] {logging_mixin.py:120} INFO - [2022-11-09T09:37:39.102+0600] {dag.py:3336} INFO - Setting next_dagrun for bash_operator to 2022-11-08T00:00:00+00:00, run_after=2022-11-09T00:00:00+00:00
+[2022-11-09T09:37:39.165+0600] {processor.py:176} INFO - Processing /home/ima/Documents/airflow_tutorial/dags/dash_opertator.py took 0.165 seconds
