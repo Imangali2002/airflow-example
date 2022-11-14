@@ -24,4 +24,4 @@ with DAG(
     task1 = PythonOperator(
         task_id="greed",
         python_callable=print_hw
-    )
+    ) 
